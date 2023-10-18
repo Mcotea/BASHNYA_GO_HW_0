@@ -1,0 +1,1 @@
+"# BASHNYA_GO_HW_0" 
